@@ -83,6 +83,37 @@
         }, 
         {
          "draworder":"topdown",
+         "id":14,
+         "name":"faq",
+         "objects":[
+                {
+                 "height":20.5,
+                 "id":1,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "color":"#cbbc48",
+                     "fontfamily":"MS Shell Dlg 2",
+                     "pixelsize":12,
+                     "text":"Stop",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":30,
+                 "x":257.5,
+                 "y":263
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
          "objects":[],
@@ -110,8 +141,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":14,
- "nextobjectid":1,
+ "nextlayerid":15,
+ "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"2020.12.18",
