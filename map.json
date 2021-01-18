@@ -112,7 +112,7 @@
                  "text":
                     {
                      "bold":true,
-                     "color":"#cbbc48",
+                     "color":"#a10000",
                      "fontfamily":"MS Shell Dlg 2",
                      "pixelsize":12,
                      "text":"Stop",
@@ -122,7 +122,7 @@
                  "visible":true,
                  "width":30,
                  "x":257.5,
-                 "y":263
+                 "y":262.5
                 }],
          "opacity":1,
          "type":"objectgroup",
